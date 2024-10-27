@@ -14,6 +14,16 @@ Upcoming Features: JavaScript to enable interactive cart management, and to hand
 🚀 Getting Started
 Prerequisites
 Ensure you have Git installed on your local machine to clone the repository.
+
+Clone the Repository:
+bash
+Copy code
+git clone https://github.com/VegetoNehra/e-Commerce.git
+Navigate to the Project Folder:
+bash
+Copy code
+cd e-Commerce
+Open index.html: View the project in your browser to see the current layout and design.
 🛠️ Planned Improvements
 Advanced Filtering: Users will be able to sort by categories, price, ratings, and more.
 Secure Payment Integration: Plans to include a secure payment gateway for smooth and safe transactions.
