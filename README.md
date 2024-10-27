@@ -1,4 +1,4 @@
-# ChrisCourses - E-commerce Website
+# E-commerce Website
 
 Welcome to my e-commerce website, a project that highlights my journey in web development. Built using **HTML** and **Tailwind CSS**, this site showcases my learning progress and serves as a foundation for future enhancements.
 
